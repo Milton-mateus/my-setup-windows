@@ -1,0 +1,15 @@
+winget install -h --id=Microsoft.PowerShell -e
+winget install -h --id=Microsoft.WindowsTerminal -e
+winget install -h --id=Starship.Starship -e
+winget install -h Microsoft.VisualStudioCode --override '/SILENT /mergetasks="!runcode,addcontextmenufiles,addcontextmenufolders"'
+winget install -h --id=Git.Git -e
+winget install -h --id=Python.Python.3.11 -e
+winget install -h --id=jasongin.nvs -e
+winget install -h --id=Flameshot.Flameshot -e
+winget install -h --id=Giorgiotani.Peazip -e
+winget install -h --id=Microsoft.PowerToys -e
+winget install -h --id=VideoLAN.VLC -e 
+winget install -h --id=ShareX.ShareX -e
+winget install -h --id=SumatraPDF.SumatraPDF -e
+winget install -h --id=Foxit.FoxitReader -e
+winget install -h --id=VivaldiTechnologies.Vivaldi -e 
