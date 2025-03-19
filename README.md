@@ -20,3 +20,4 @@ Este script instala extensões do VSCode.
 - Cada script pode ser executado por meio do `Windows PowerShell`.
 - Para habilitar a execução de scripts no `Windows PowerShell`, basta abrir uma janela deste com permissões de administrador e executar o comando `Set-ExecutionPolicy Unrestricted`.
 - É necessário executar o script `winstall-programs` antes dos outros, pois neste são instalados programas que possibilitaram a execução sem erros dos demais.
+a
