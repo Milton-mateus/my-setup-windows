@@ -4,6 +4,7 @@ winget install -h --id=Starship.Starship -e
 winget install -h Microsoft.VisualStudioCode --override '/SILENT /mergetasks="!runcode,addcontextmenufiles,addcontextmenufolders"'
 winget install -h --id=Git.Git -e
 winget install -h --id=Python.Python.3.11 -e
+winget install -h --id=Julialang.Julia  -e
 winget install -h --id=jasongin.nvs -e
 winget install -h --id=Flameshot.Flameshot -e
 winget install -h --id=Giorgiotani.Peazip -e
